@@ -51,5 +51,5 @@ This phase involved more advanced testing and the final submission preparation.
 
 * **Penetration Testing (Nmap):** Performed a port scan using **Nmap** to identify open ports on the local machine. This showed that the Juice Shop application was correctly running on port `3000`, a key finding for the security assessment.
 * **Logging:** Used the **`winston`** library to set up basic logging, demonstrating how to record security events to a file.
-* **Final Submission:** All code, documentation, and a final video (to be recorded) are part of the final submission.
+
 
