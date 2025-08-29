@@ -1,0 +1,3 @@
+{"level":"info","message":"Application started successfully."}
+{"level":"warn","message":"A suspicious login attempt was detected."}
+{"level":"error","message":"An unhandled error occurred."}
