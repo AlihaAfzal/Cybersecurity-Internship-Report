@@ -1,3 +1,5 @@
+# Cybersecurity-Internship-Report
+
 ### **Aliha Afzal**
 ### **DHC-601**
 ### **Cybersecurity**
@@ -51,4 +53,3 @@ This phase involved more advanced testing and the final submission preparation.
 * **Logging:** Used the **`winston`** library to set up basic logging, demonstrating how to record security events to a file.
 * **Final Submission:** All code, documentation, and a final video (to be recorded) are part of the final submission.
 
----# Cybersecurity-Internship-Report
